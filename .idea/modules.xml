@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/test/abstraction/abstraction.iml" filepath="$PROJECT_DIR$/test/abstraction/abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/collections_framework/collections_framework.iml" filepath="$PROJECT_DIR$/test/collections_framework/collections_framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/new/new.iml" filepath="$PROJECT_DIR$/test/new/new.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/oopactivities/oopactivities.iml" filepath="$PROJECT_DIR$/test/oopactivities/oopactivities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/second_stage/second_stage.iml" filepath="$PROJECT_DIR$/test/second_stage/second_stage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/training.iml" filepath="$PROJECT_DIR$/training.iml" />
+    </modules>
+  </component>
+</project>
